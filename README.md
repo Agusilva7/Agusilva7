@@ -7,7 +7,7 @@
 
 - 💬 Tegnologias **react ,redux, javascript , next.js , node.js , typescript y styled components.**
 
-- 📫 How to reach me **niupi7374@gmail.com**
+- 📫 gmail **niupi7374@gmail.com**
 
 - 📄 Experiencias [Realicé una refactorización del sitio web de “Calm es Simple” utilizando Next.js, lo que permitió mejorar la velocidad de carga y la experiencia del usuario. Anteriormente, el sitio web estaba construido en WordPress](Realicé una refactorización del sitio web de “Calm es Simple” utilizando Next.js, lo que permitió mejorar la velocidad de carga y la experiencia del usuario. Anteriormente, el sitio web estaba construido en WordPress)
 
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agusilva7&show_icons=true&locale=en" alt="agusilva7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agusilva7&" alt="agusilva7" /></p>
+
